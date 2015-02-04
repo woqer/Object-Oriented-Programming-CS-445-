@@ -1,0 +1,21 @@
+This is a Ruby project! So Ruby (1.9.3 at least) needs to be installed in the system.
+
+Installing in Ubuntu (needs internet connection):
+	$ sudo apt-get install ruby1.9.3
+
+For now on, it is assumed that you are working on the project directory.
+
+Running the acceptance test is just:
+	$ ruby TestCreatures.rb
+
+For the Unit Test and the Coverage, some gems need to be installed.
+Internet connection is needed for this step.
+GemFile is provided so just run:
+	$ bundle install
+
+Running the Unit Tests:
+	$ rspec spec/
+
+The test results will be in the folder ./coverage in HTML format
+(open coverage/index.html with any web browser).
+If any error is found in the test, it will be printed in the terminal

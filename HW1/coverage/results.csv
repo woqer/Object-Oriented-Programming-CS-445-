@@ -1,0 +1,14 @@
+File,% covered,Lines,Relevant Lines,Lines covered,Lines missed
+"./Ant.rb",100,13,7,7,0
+"./Bat.rb",100,27,15,15,0
+"./Creature.rb",100,25,13,13,0
+"./Fly.rb",100,27,15,15,0
+"./Flyer.rb",100,10,3,3,0
+"./Thing.rb",100,13,6,6,0
+"./Tiger.rb",100,13,7,7,0
+"./spec/Ant_spec.rb",100,98,57,57,0
+"./spec/Bat_spec.rb",100,105,62,62,0
+"./spec/Creature_spec.rb",100,79,45,45,0
+"./spec/Fly_spec.rb",100,105,62,62,0
+"./spec/Thing_spec.rb",100,15,8,8,0
+"./spec/Tiger_spec.rb",100,81,47,47,0
