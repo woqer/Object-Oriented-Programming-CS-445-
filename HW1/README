@@ -5,6 +5,8 @@ Installing in Ubuntu (needs internet connection):
 
 For now on, it is assumed that you are working on the project directory.
 
+Information of directory hierarchy in the memo file (memo/memo.pdf)
+
 Running the acceptance test is just:
 	$ ruby TestCreatures.rb
 
